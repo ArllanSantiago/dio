@@ -2,7 +2,7 @@ package domain.entidade;
 
 import java.sql.Date;
 
-public class Aplicativo {
+public abstract class Aplicativo {
     private long id;
     private String nome;
     private String tamanho;

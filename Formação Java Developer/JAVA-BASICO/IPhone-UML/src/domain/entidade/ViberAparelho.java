@@ -1,9 +1,8 @@
 package domain.entidade;
 
 import domain.interfaces.IAparelho;
-import domain.interfaces.INavegadorInternet;
 
-public class ViberAparelho extends Aplicativo implements IAparelho{
+public class ViberAparelho extends Aplicativo implements IAparelho {
 
     @Override
     public void atender() {
@@ -23,7 +22,4 @@ public class ViberAparelho extends Aplicativo implements IAparelho{
         throw new UnsupportedOperationException("Unimplemented method 'inicializarCorreioVoz'");
     }
 
-
-    
-    
 }
