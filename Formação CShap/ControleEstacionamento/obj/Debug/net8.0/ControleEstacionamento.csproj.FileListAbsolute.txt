@@ -1,0 +1,14 @@
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.exe
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.deps.json
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.runtimeconfig.json
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.dll
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.pdb
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfoInputs.cache
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfo.cs
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.dll
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\refint\ControleEstacionamento.dll
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.pdb
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.genruntimeconfig.cache
+C:\Users\arlla\Documents\Projeto\CShapConsole\ControleEstacionamento\obj\Debug\net8.0\ref\ControleEstacionamento.dll
